@@ -4,7 +4,7 @@
 - Attack and defend using smart contracts.
 - Sounds and animations.
 - Avalanche blockchain for faster gameplay.
-
+--
 ## Demo
 
 https://avax-royale-raj510.vercel.app/
